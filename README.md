@@ -9,7 +9,7 @@ Templight est un jeu de type puzzle utilisant des rayons de différentes couleur
 
 ## English
 
-«The brighter the light, somber the Darkness.» This warning, designed for unwanted guests, leads to the entrance of the Temple. In this place, dedicated to the Sun, the darkest mysteries await. The fight will be tough in order to make your way through the depths of the rooms. The traps are numerous, the turnings countless. At the heart of this inscrutable maze, hints, left by the Elders, will guide your steps. However, don't get fooled by the whispers of the doomed souls : they shall rush your fall.
+«The brighter the light, somberer the Darkness.» This warning, designed for unwanted guests, leads to the entrance of the Temple. In this place, dedicated to the Sun, the darkest mysteries await. The fight will be tough in order to make your way through the depths of the rooms. The traps are numerous, the turnings countless. At the heart of this inscrutable maze, hints, left by the Elders, will guide your steps. However, don't get fooled by the whispers of the doomed souls : they shall rush your fall.
 
 Templight is a puzzle game involving colored rays to solve riddles. Differents items will be at your disposal to interact with the light. Place them wisely and draw up your path to next room. But be careful not to get deluded : a bad choice will lead you to a bad way. Look out for the treasures, search the rooms, find out the story of this uncanny temple. In the shadow hides the truth...and only you are able to find it !
 
