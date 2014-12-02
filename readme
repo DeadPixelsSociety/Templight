@@ -1,0 +1,13 @@
+Créer un dossier build
+Aller dans le dossier build
+Aller dans le dossier Templight
+mkdir build (créer le dossier de build)
+cd build (aller dans le dossier build créé)
+cmake ..
+make install (droit admin)
+make
+dans games/nom_de_l'exe
+
+Les .h dans le dossier include
+Les .cpp dans le dossier lib
+Les main dans le dossier games
